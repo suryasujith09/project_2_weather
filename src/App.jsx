@@ -5,7 +5,7 @@ import WeatherForecast from './components/WeatherForecast';
 import RecentSearches from './components/RecentSearches';
 import LoadingSpinner from './components/LoadingSpinner';
 import ErrorMessage from './components/ErrorMessage';
-import GeminiChat from "./components/GeminiChat";
+// import GeminiChat from "./components/GeminiChat";
 import useWeather from './hooks/useWeather';
 
 import './App.css';
