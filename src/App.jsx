@@ -83,9 +83,9 @@ function App() {
       </div>
       <script src='https://cdn.jotfor.ms/agent/embedjs/0198e094661b714bb52561ff740037ac0281/embed.js'>
       </script>
-      <div className="min-h-screen bg-gray-100 flex items-center justify-center">
+      {/* <div className="min-h-screen bg-gray-100 flex items-center justify-center">
         <GeminiChat />
-      </div>
+      </div> */}
     </div>
   );
 }
